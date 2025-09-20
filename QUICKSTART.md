@@ -11,7 +11,7 @@
 
 ```bash
 # 1. 克隆项目
-git clone https://github.com/hsliuping/TradingAgents-CN.git
+git clone https://github.com/Jason-1987542/TradingAgents-CN.git
 cd TradingAgents-CN
 
 # 2. 配置环境变量
